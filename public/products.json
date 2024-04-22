@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 599.99,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 149.99,
+      "stock": 200
+    },
+    {
+      "id": 4,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 150
+    },
+    {
+      "id": 5,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 399.99,
+      "stock": 80
+    },
+    {
+      "id": 6,
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 19.99,
+      "stock": 300
+    },
+    {
+      "id": 7,
+      "name": "Jeans",
+      "category": "Clothing",
+      "price": 49.99,
+      "stock": 150
+    },
+    {
+      "id": 8,
+      "name": "Sneakers",
+      "category": "Footwear",
+      "price": 79.99,
+      "stock": 100
+    },
+    {
+      "id": 9,
+      "name": "Watch",
+      "category": "Accessories",
+      "price": 199.99,
+      "stock": 120
+    },
+    {
+      "id": 10,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 59.99,
+      "stock": 200
+    },
+    {
+      "id": 11,
+      "name": "Desk Lamp",
+      "category": "Home",
+      "price": 34.99,
+      "stock": 80
+    },
+    {
+      "id": 12,
+      "name": "Coffee Maker",
+      "category": "Home",
+      "price": 89.99,
+      "stock": 60
+    },
+    {
+      "id": 13,
+      "name": "Throw Blanket",
+      "category": "Home",
+      "price": 29.99,
+      "stock": 120
+    },
+    {
+      "id": 14,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 24.99,
+      "stock": 150
+    },
+    {
+      "id": 15,
+      "name": "Dumbbell Set",
+      "category": "Fitness",
+      "price": 149.99,
+      "stock": 50
+    },
+    {
+      "id": 16,
+      "name": "Resistance Bands",
+      "category": "Fitness",
+      "price": 19.99,
+      "stock": 200
+    },
+    {
+      "id": 17,
+      "name": "Board Game",
+      "category": "Entertainment",
+      "price": 39.99,
+      "stock": 100
+    },
+    {
+      "id": 18,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 120
+    },
+    {
+      "id": 19,
+      "name": "External Hard Drive",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 80
+    },
+    {
+      "id": 20,
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 150
+    }
+  ]
